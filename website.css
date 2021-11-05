@@ -1,0 +1,99 @@
+ .navbar {
+    margin-bottom: 20px;
+  }
+
+h1 {
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    padding-top: 70px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 55px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: black;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+ol {
+    font-size: 30px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+dt {
+    text-align: center;
+}
+
+body {
+    background-color:  #D2DAD2;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+nav {
+    background-color:#335C3A;
+    margin: 0 0 0 0;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+    line-height: 1.5;
+    /* rtl:remove */
+    letter-spacing: -.05rem;
+}
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+    margin-top: 40px;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.marketing h2 {
+    font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+}
+/* rtl:end:ignore */
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
